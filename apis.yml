@@ -39,7 +39,6 @@ apis:
   - name: ThronesApi
     description: "Game Of Thrones Characters Data with imagery"
     humanURL: https://thronesapi.com/
-    baseURL: https://thronesapi.com/
     tags:
       - Video
     properties:
